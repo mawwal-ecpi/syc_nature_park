@@ -1,0 +1,8 @@
+#home-style a {
+    text-decoration: none;
+}
+
+#home-style a:hover {
+    color: gray;
+}
+
